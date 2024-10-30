@@ -1,0 +1,55 @@
+body{
+  background-color: blueviolet;
+}
+
+h1{
+    font-family:"Poppins", sans-serif;
+    color: whitesmoke;
+    text-align: center;
+    font-size: 7rem;
+    margin: 30px;
+    text-shadow: 4px 0 #232931;
+}
+
+.container{
+    width: 70%;
+    margin: auto;
+    text-align: center;
+}
+
+.dice{
+    display: inline-block;
+    text-align: center;
+    
+}
+
+h2{
+    margin:30px;
+    font-family:"Indie Flower", cursive;
+    color:whitesmoke;
+    text-align: center;
+    text-shadow: 4px 0 #232931;
+    font-size: 3.5rem;
+}
+
+h6{
+    font-family:"Poppins", sans-serif;
+    color:whitesmoke;
+    text-align: center;
+    font-size:2rem;
+    text-shadow: 4px 0 #232931;
+}
+
+img{
+    width:80%;
+
+}
+
+footer{
+    margin-top: 5%;
+    font-family:"Poppins", sans-serif;
+    color:whitesmoke;
+    text-align:center;
+    font-size:2rem;
+    text-shadow: 4px 0 #232931;
+}
